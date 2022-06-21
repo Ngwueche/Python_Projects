@@ -1,11 +1,5 @@
 import datetime
-from urllib import request
-import requests as r
 from playsound import playsound
-import django
-import theano
-
-r = request.get('')
 
 alarmHr = int(input("Enter the Hour: "))
 alarmMin = int(input("Enter the Min: "))
@@ -19,13 +13,3 @@ while True:
         print("playing...")
         playsound("C:/Users/THIS PC/Music/2Baba-Smile.mp3")
         break
-theano
-bokeh
-scikilearn
-keras
-tensorflow
-twisted
-pillow
-kivy
-pywin32
-pendulum
